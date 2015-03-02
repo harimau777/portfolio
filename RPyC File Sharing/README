@@ -1,0 +1,3 @@
+This is a simple implementation of a filesharing system that uses the Python RPyC library.
+I wrote it as an example for a Cloud Computing course for which I was the teaching assistant.
+A video demonstrating the program can be found at: https://drive.google.com/file/d/0B-qfS-VzhOhoWm93Y0JIelRIUnc/view?usp=sharing

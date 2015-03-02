@@ -1,0 +1,21 @@
+***** association_rules.py *****
+This program generates every possible association rule that can be derived from a set of transaction.
+
+***** decision_tree_split.py *****
+This program calculates the optimal place to split a group of points when creating a decision tree.
+The optimal split location is considered the location which produces the greatest information gain when the data is split.
+
+***** density_clustering.py *****
+This program performs density based clustering by calculating core points, border points, and outlier points.
+
+***** k_means_SSE.py *****
+This program calculated the sum of squares errors for clusters generated using k-means clustering.
+It was designed to parse output files from the Orange application.
+
+***** perceptron.py *****
+This program trains the weights in a perceptron.
+
+***** rand_index.py *****
+This program calculated the Rand Index of two clusterings.
+It is designed to parse output files from the Orange application.
+

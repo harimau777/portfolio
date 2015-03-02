@@ -1,0 +1,9 @@
+***** Data Analysis *****
+Programs associated with data analysis such as clustering and perceptrons.
+
+***** MapReduce *****
+Various MapReduce programs.
+
+***** RPyC Filesharing *****
+A command-line filesharing system that communicates via RPC.
+

@@ -1,0 +1,17 @@
+***** mathstats *****
+Uses MapReduce to count a potentially large list of numbers, count the number of primes in the list, and sum the list.
+
+***** search *****
+Uses MapReduce to generate a bloom filter which allows rapid searching for a word in extremely large datasets.
+
+***** twitter hashtag stats *****
+Uses MapReduce to calculate the most common hashtag in a Twitter dataset.
+The most common hashtage is calculated for each day of the week and for each hour of the day.
+
+***** twitter reading level *****
+Uses MapReduce to analyze the reading level of tweets in a Twitter dataset.
+Determines the author of the tweet with the highest reading level, the author of the tweet with the lowest reading level,
+and the average reading level.
+Compares the reading level of tweets which have location data with those which do not.
+Reading level is calculated using the Flesch & Kincaid measurement.
+
