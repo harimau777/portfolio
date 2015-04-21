@@ -1,3 +1,8 @@
+***** Capstone Project *****
+My M. Eng. capstone project.
+This project uses MapReduce to perform analysis on Wikipedia.
+Note: This code has just been completed so I am still finishing up cleanup and documentation.
+
 ***** Data Analysis *****
 Programs associated with data analysis such as clustering and perceptrons.
 
